@@ -19,6 +19,7 @@
   - Fred data were not included in this code. Additional process was done equally.
 - prediction_model.ipynb
   - Build prediction model
+
 **Model structure**
 - LSTM / L1loss
 - Holiday, Weather, Working people(Fred), Dwellings and Residential buildings(Fred) and Tweets that mention specific keywords were considered as variables.
