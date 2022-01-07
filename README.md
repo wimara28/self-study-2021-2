@@ -1,7 +1,5 @@
 # self-study-2021-2
 
-논문자격시험 QE
-
 ### 2-Day Project
 **Build hourly electricity consumption prediction model with provided/self-collected data**
 - data/*
